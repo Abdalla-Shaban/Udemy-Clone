@@ -1,0 +1,594 @@
+{
+  "categories": [
+    "Development",
+    "Business",
+    "Finance & Accounting",
+    "IT & Software",
+    "Office Productivity",
+    "Personal Development",
+    "Design",
+    "Markting",
+    "Lifestyle",
+    "PhotoGraphy & Video",
+    "Health & Fitness",
+    "Music",
+    "Teching & Academics"
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "image": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+      "instructor": "Jose Portilla",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Automate the Boring Stuff with Python Programming",
+      "image": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+      "instructor": "AI Sweigart",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+      "instructor": "Dr. Angela Yu",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "image": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+      "instructor": "Jose Portilla",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Automate the Boring Stuff with Python Programming",
+      "image": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+      "instructor": "AI Sweigart",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+      "instructor": "Dr. Angela Yu",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "image": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+      "instructor": "Jose Portilla",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Automate the Boring Stuff with Python Programming",
+      "image": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+      "instructor": "AI Sweigart",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+      "instructor": "Dr. Angela Yu",
+      "rate": 4.6,
+      "category": "Python",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+      "learn": [
+        "You will learn how to leverage the power of Python to solve tasks.",
+        "You will build games and programs that use Python libraries.",
+        "You will be able to use Python for your own work problems or personal projects."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Microsoft Excel - Excel from Beginner to Advanced",
+      "image": "https://img-c.udemycdn.com/course/240x135/793796_0e89_2.jpg",
+      "instructor": "Kyle Pew, Office Newb",
+      "rate": 4.6,
+      "category": "Excel",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Excel with this A-Z Microsoft Excel Course. Microsoft Excel 2010, 2013, 2016, Excel 2019 and Microsoft/Office 365/2023",
+      "learn": [
+        "Master Microsoft Excel from Beginner to Advanced",
+        "Build a solid understanding on the Basics of Microsoft Excel",
+        "Learn the most common Excel functions used in the Office"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Zero to Hero in Microsoft Excel: Complete Excel guide 2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/2605732_e3d5_3.jpg",
+      "instructor": "Start-Teach Academy",
+      "rate": 4.6,
+      "category": "Excel",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "A Beginner's Guide to Microsoft Excel - Learn Excel Charts, Spreadsheets, Formulas, Shortcuts, Macros and Tips & Tricks",
+      "learn": [
+        "A Beginner's Guide to Microsoft Excel - Microsoft Excel, Learn Excel, Spreadsheets, Formulas, Shortcuts, Macros",
+        "Knowledge of all the essential Excel formulas",
+        "Become proficient in Excel data tools like Sorting, Filtering, Data validations and Data importing"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Become proficient in Excel data tools like Sorting, Filtering, Data validations and Data importing",
+      "image": "https://img-c.udemycdn.com/course/240x135/2070737_3af1_4.jpg",
+      "instructor": "Start-Teach Academy",
+      "rate": 4.6,
+      "category": "Excel",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Microsoft Excel in just 5 hours - Excel Formulas and Functions, Excel Charts, Excel Analytics, Shortcuts & Excel Macros",
+      "learn": [
+        "Solid understanding of Microsoft Excel",
+        "Knowledge of all the essential Excel formulas",
+        "Become proficient in Excel data tools like Sorting, Filtering, Data validations and Data importing"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Complete 2023 Web Development Bootcamp",
+      "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+      "instructor": "Dr. Angela Yu",
+      "rate": 4.6,
+      "category": "Web Development",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+      "learn": [
+        "Build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+        "Learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+        "After the course you will be able to build ANY website you want."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Web Developer Bootcamp 2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+      "instructor": "Colt Steele",
+      "rate": 4.6,
+      "category": "Web Development",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!",
+      "learn": [
+        "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+        "Make REAL web applications using cutting-edge technologies",
+        "Create responsive, accessible, and beautiful layouts"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Web Development Masterclass - Online Certification Course",
+      "image": "https://img-c.udemycdn.com/course/240x135/965528_737d_7.jpg",
+      "instructor": "YouAccel Training",
+      "rate": 4.6,
+      "category": "Web Development",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Cloud Computing | Web Apps | Linux | Web Servers | DBMS | LAMP Stack | HTML | CSS | JavaScript | PHP | + More",
+      "learn": [
+        "Understand the essentials of Local and Wide Area Networks",
+        "Setup a basic network.",
+        "Register a domain name with Domain Privacy"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "image": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+      "instructor": "Jonas Schmedtmann",
+      "rate": 4.6,
+      "category": "JavaScript",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "learn": [
+        "Become an advanced, confident, and modern JavaScript developer from scratch",
+        "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+        "Become job-ready by understanding how JavaScript really works behind the scenes"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2023",
+      "image": "https://img-c.udemycdn.com/course/240x135/3726582_f4a7.jpg",
+      "instructor": "Hemanth Kumar",
+      "rate": 4.6,
+      "category": "JavaScript",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn HTML5, CSS3, JavaScript by building a modern looking responsive website.",
+      "learn": [
+        "At the end of this course, You will have a great skills set like HTML5, CSS3, JavaScript",
+        "You will see, the complete web development process from start to finish project.",
+        "You will learn about media queries and will be able to make website perfect for responsive design."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "JavaScript: Understanding the Weird Parts",
+      "image": "https://img-c.udemycdn.com/course/240x135/364426_2991_6.jpg",
+      "instructor": "Anthony Alicea",
+      "rate": 4.6,
+      "category": "JavaScript",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+      "learn": [
+        "Grasp how Javascript works and it's fundamental concepts",
+        "Write solid, good Javascript code",
+        "Understand advanced concepts such as closures, prototypal inheritance, IIFEs, and much more."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+      "image": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+      "instructor": "Kirill Ermenko, Hadelin de Ponteves",
+      "rate": 4.6,
+      "category": "Data Science",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+      "learn": [
+        "Master Machine Learning on Python & R",
+        "Have a great intuition of many Machine Learning models",
+        "Make accurate predictions"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "image": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+      "instructor": "Jose Portilla",
+      "rate": 4.6,
+      "category": "Data Science",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
+      "learn": [
+        "Use Python for Data Science and Machine Learning",
+        "Use Spark for Big Data Analysis",
+        "Implement Machine Learning Algorithms"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "The Data Science Course: Complete Data Science Bootcamp",
+      "image": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+      "instructor": "365 Careers",
+      "rate": 4.6,
+      "category": "Data Science",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+      "learn": [
+        "The course provides the entire toolbox you need to become a data scientist",
+        "Fill up your resume with in demand data science skills: Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, Machine Learning with stats models and scikit-learn, Deep learning with TensorFlow",
+        "Impress interviewers by showing an understanding of the data science field"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Ultimate AWS Certified Cloud Practitioner CLF-C01 & CLF-C02",
+      "image": "https://img-c.udemycdn.com/course/240x135/3142166_a637_3.jpg",
+      "instructor": "Stephane Maarek | Certified Cloud",
+      "rate": 4.6,
+      "category": "Amazon AWS",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C01/C02 exam!",
+      "learn": [
+        "FULLY UPDATED FOR CLF-C01 & CLF-C02: Pass the AWS Certified Cloud Practitioner Certification",
+        "Full Practice Exam with Explanations included!",
+        "Learn the AWS Fundamentals (EC2, ELB, ASG, RDS, ElastiCache, S3)"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Big Data on Amazon web services (AWS)",
+      "image": "https://img-c.udemycdn.com/course/240x135/1913398_a6e2_3.jpg",
+      "instructor": "Learnsector LLP",
+      "rate": 4.6,
+      "category": "Amazon AWS",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn About Building out Scalable, Resilient Big Data Solutions Using Various Services on AWS Cloud Platform",
+      "learn": [
+        "You will be able to understand the possibilities of Big Data on AWS",
+        "You will gain practical experience of how to use AWS and how to perform big data solutions on cloud.",
+        "Get a fair understanding of EMR,Athena and Elasticsearch"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Amazon Web Services (AWS) Certified - 4 Certifications!",
+      "image": "https://img-c.udemycdn.com/course/240x135/1047846_83ef_29.jpg",
+      "instructor": "BackSpace Academy, Paul Coady",
+      "rate": 4.6,
+      "category": "Amazon AWS",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Videos, labs & practice exams - AWS Certified (Solutions Architect, Developer, SysOps Administrator, Cloud Practitioner)",
+      "learn": [
+        "You will be fully prepared for the AWS Certified Solutions Architect Associate, AWS Certified Developer Associate and AWS Certified SysOps Administrator Associate exams."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "The Ultimate Drawing Course - Beginner to Advanced",
+      "image": "https://img-c.udemycdn.com/course/240x135/874012_c7f2_3.jpg",
+      "instructor": "Jaysen Batchelor, Quinton Batchelor",
+      "rate": 4.6,
+      "category": "Drawing",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Learn the #1 most important building block of all art, Drawing. This course will teach you how to draw like a pro!",
+      "learn": [
+        "Draw objects out of your head",
+        "Draw realistic light and shadow",
+        "Understand the fundamentals of art"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Drawing Masterclass: Draw Better w/our Drawing Course",
+      "image": "https://img-c.udemycdn.com/course/240x135/2651072_3634_5.jpg",
+      "instructor": "Phil Ebiner, Kevin Gradin",
+      "rate": 4.6,
+      "category": "Drawing",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": false,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Drawing Course: Learn Drawing, Art, Sketching, Illustration, Character Design, Digital Drawing, Pencil Drawing, Figure",
+      "learn": [
+        "Learn Drawing, Art, Sketching, Illustration, Character Design, Digital Drawing, Pencil Drawing, Figure",
+        "Draw any kind of art from your imagination",
+        "Understand drawing fundamentals and concepts like a pros"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "The Art & Science of Drawing / BASIC SKILLS",
+      "image": "https://img-c.udemycdn.com/course/240x135/1045092_8c2f_2.jpg",
+      "instructor": "Brent Eviston",
+      "rate": 4.6,
+      "category": "Drawing",
+      "rateCount": "477,763",
+      "price": 1699.99,
+      "newPrice": 1399.99,
+      "isBest": true,
+      "date": "July 2023",
+      "hours": 22,
+      "desc": "Drawing is not a talent. It's a skill anyone can learn.",
+      "learn": [
+        "How to draw any shape.",
+        "How to observe and analyze any subject.",
+        "How to draw any form by breaking it down into basic shapes before adding dark lines."
+      ]
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Python",
+      "tabTitle": "Expand your career opportunities with Python",
+      "tabDesc": "Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to"
+    },
+    {
+      "name": "Excel",
+      "tabTitle": "Analyze and visualize data with Excel",
+      "tabDesc": "Take a Microsoft Excel course from Udemy, and learn how to use this industry-standard software. Real-world experts will show you the basics like how to organize data into sheets, rows and columns, and advanced techniques like creating complex dynamic formulas. Both small businesses and large companies use Excel to"
+    },
+    {
+      "name": "Web Development",
+      "tabTitle": "Build websites and applications with Web Development",
+      "tabDesc": "The world of web development is as wide as the internet itself. Much of our social and vocational lives play out on the internet, which prompts new industries aimed at creating, managing, and debugging the websites and applications that we increasingly rely on."
+    },
+    {
+      "name": "JavaScript",
+      "tabTitle": "Grow your software development skills with JavaScript",
+      "tabDesc": "JavaScript is a text-based computer programming language used to make dynamic web pages. A must-learn for aspiring web developers or programmers, JavaScript can be used for features like image carousels, displaying countdowns and timers, and playing media on a webpage. With JavaScript online classes, you can learn to build..."
+    },
+    {
+      "name": "Data Science",
+      "tabTitle": "Lead data-driven decisions with Data Science",
+      "tabDesc": "Data science application is an in-demand skill in many industries worldwide — including finance, transportation, education, manufacturing, human resources, and banking. Explore data science courses with Python, statistics, machine learning, and more to grow your knowledge. Get data science training if you’re into research, statistics"
+    },
+    {
+      "name": "Amazon AWS",
+      "tabTitle": "Become an expert in cloud computing with AWS Certification",
+      "tabDesc": "Amazon Web Services (AWS) is a cloud computing platform with more than 200 featured services. Whether or not you aim for certification, an AWS course offers the theory and practical skills you need to land a job in cloud development, sales, engineering, networking, and more. The better you become at cloud computing, the more"
+    },
+    {
+      "name": "Drawing",
+      "tabTitle": "Expand your creative skillset with Drawing",
+      "tabDesc": "Want to start drawing for fun or take your craft to the next level? Explore our online drawing classes and learn pencil drawing, figure drawing, cartoon drawing, character drawing for cartoons and anime, illustration, sketching, shading and more. Take an overview course on the fundamentals of drawing or zero in on an area"
+    }
+  ]
+}
